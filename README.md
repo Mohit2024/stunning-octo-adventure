@@ -41,3 +41,6 @@ Did you know that when first starting out, the most common hooks for people alwa
 
 ![Very Cute Cat](https://www.thesprucepets.com/thmb/hqOqHHykEkHQqJfyuzPWEE8crZ0=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1144157924-52f5bd679db74abfb01615715e68e63c.jpg)
 
+See what I just did, I just added a cute cat to try and get you focused on the thing that I am currently writing to you. You feel more inclined because you want to continuously see the cute cat on your screen. However, if I were to post somethng that you didn't like, you would immediately lose interest. For example, this...
+
+![Big Chungus](https://cdn.vox-cdn.com/thumbor/VVXayrypyYIMqiHWIYdL77FRF_o=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/22408516/Big_Chungus.png)
