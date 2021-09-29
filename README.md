@@ -37,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## Hello people
-Did you know that when first starting out, the most common hooks for people always starts out with a question saying "Did you know?" This isn't great because 
+Did you know that when first starting out, the most common hooks for people always starts out with a question saying "Did you know?" This isn't great because hooks are supposed to interest people into reading the essay or the rest of your paragraph. Take right now, for example, I'm most likely losing your interest. How do we make it so that people  don't lose interest on what we're writing?
