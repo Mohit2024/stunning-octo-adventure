@@ -44,3 +44,5 @@ Did you know that when first starting out, the most common hooks for people alwa
 See what I just did, I just added a cute cat to try and get you focused on the thing that I am currently writing to you. You feel more inclined because you want to continuously see the cute cat on your screen. However, if I were to post somethng that you didn't like, you would immediately lose interest. For example, this...
 
 ![Big Chungus](https://cdn.vox-cdn.com/thumbor/VVXayrypyYIMqiHWIYdL77FRF_o=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/22408516/Big_Chungus.png)
+
+Now, because of this, you feel uncomfortable and you don't want to read the rest of my writing. 
