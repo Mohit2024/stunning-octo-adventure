@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Hello people
 Did you know that when first starting out, the most common hooks for people always starts out with a question saying "Did you know?" This isn't great because hooks are supposed to interest people into reading the essay or the rest of your paragraph. Take right now, for example, I'm most likely losing your interest. How do we make it so that people  don't lose interest on what we're writing?
-![Dog](DogDance.gif)
+![Cats are Cool!](/assets/images/Cute-Cat-Picture.jpg "Cute Cat")
